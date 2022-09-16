@@ -1,12 +1,12 @@
-# https://vett0ri.github.io/NLW-Explorer/NLW eSports
+# NLW eSports
 
-![preview](./.github/preview.png "./.github/preview.png")
+![preview](./.github/preview.png)
 
 >  Trilha Explorer
 
 Projeto construido no evento  Next Level Week da Rocketseat.
 
-[Clique aqui para acessar](httos://https://vett0ri.github.io/NLW-Explorer/)
+[Clique aqui para acessar](https://vett0ri.github.io/NLW-Explorer)
 
 ## 🛠️ Tecnologias
 
